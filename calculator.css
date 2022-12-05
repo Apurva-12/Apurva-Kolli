@@ -1,0 +1,18 @@
+.button
+{
+	text-align: center;
+	background-color: green;
+	/*display: flex;*/
+	border-radius: 20px;
+	margin-top: 50px;
+	margin-left: 10px;
+	color: white;
+	/*justify-content: center;*/
+}
+
+.input
+{
+	display: flex;
+	margin-top: 50px;
+	margin-left: 30px;
+}
